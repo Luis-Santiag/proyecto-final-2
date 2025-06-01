@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"args": [
+				"build"
+			],
+			"command": "dotnet",
+			"label": "build",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"type": "shell"
+		}
+	]
+}
